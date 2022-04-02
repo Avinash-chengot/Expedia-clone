@@ -1,0 +1,15 @@
+/* .HotelCard {
+  display: flex;
+  flex-shrink: 1;
+} */
+
+.flightdetailsbox {
+  width: 912px;
+  margin-bottom: 15px;
+  background-color: white;
+  border-style: solid;
+  border-width: 0.1px;
+  border-color: transparent;
+  border-radius: 10px;
+  /* background-color: aqua; */
+}
